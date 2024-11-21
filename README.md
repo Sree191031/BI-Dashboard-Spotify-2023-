@@ -1,4 +1,4 @@
-# Spotify BI Dashboard Project
+# Spotify BI Dashboard
 
 **Project Overview**
 
